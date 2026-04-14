@@ -1,3 +1,0 @@
-I am a Computer Science student skilled in Java, Python, and Data Structures.
-I have experience in machine learning and web development.
-I am interested in backend development and AI roles.
